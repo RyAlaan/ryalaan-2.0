@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "a4e072a4eeed96b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb0d271575cd029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bd018d8c725c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/ROS-2/02 -  Nodes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 -  Nodes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61ab4455f90450ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f43ff50247f520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb10bac46212096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "73449be9f772fda4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:robotics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3458d1ab5072a62b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d147eca9cb279bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69cc629834388ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e1160943c6603d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/Movies/00 - movies.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00 - movies"
+            }
+          },
+          {
+            "id": "cdf841d18d171cee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/Movies/00 - movies.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00 - movies"
+            }
+          },
+          {
+            "id": "c3b72ca336a11131",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fe9af6dcf70aaa6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df8193249ee9b06c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/Movies/00 - movies.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00 - movies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a4bd018d8c725c56",
+  "lastOpenFiles": [
+    "01 - Projects/ROS-2/01 - Environment & Workspace.md",
+    "01 - Projects/ROS-2/02 -  Nodes.md",
+    "99 - Assets/Templates/Project Template.md",
+    "Invalid date.md",
+    "03 - Resources/Article/ROS 2 Environment.md",
+    "01 - Projects/ROS-2/template-dokumentasi-ros2.md",
+    "01 - Projects/ROS-2/Unconfirmed 425886.crdownload",
+    "03 - Resources/Article/ROS 2 Basic Concept.md",
+    "99 - Assets/Images/Nodes-TopicandService.gif",
+    "99 - Assets/Images/Unconfirmed 382184.crdownload",
+    "99 - Assets/Images",
+    "99 - Assets/Templates/Book Template.md",
+    "99 - Assets/Templates/People Template.md",
+    "03 - Resources/Movies/Coach Carter (2005).md",
+    "03 - Resources/Movies/Chernobyl (2019).md",
+    "03 - Resources/Movies/Carpe Diem! - Seize the Day.md",
+    "03 - Resources/Movies/A Beautiful Mind (2001).md",
+    "01 - Projects/ROS-2",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/30 Jumat/Tuning Rangka Bawah.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/21 Rabu/Mulai tanya membuat workspace otonom.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/21 Rabu/Arsitektur - Struktur Node R2.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/13 Selasa/Hal yang dilakuin.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/12 Senin/Riset 12 Januari.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/11 Ahad/Persiapan buat riset besok.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/07 Rabu/Log Research.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/22 Senin/Navigation & Localization.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/22 Senin/Fusion Sensor.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/20 Sabtu/Tuning PID.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/16 Selasa/Penjelasan Tuning PID.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/08 Senin/Lanjut ROS2 YT.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/03-DESEMBER 2025/07 Ahad/Course Udemy.md",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/01-OKTOBER 2025/26 Oktober 2025/Untitled.base",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/01-OKTOBER 2025/26 Oktober 2025/Untitled 1.base",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/30 Jumat",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/21 Rabu",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/13 Selasa",
+    "KRAI-2026/Arlen/KRAI 2026/Riset/04-JANUARI 2026/12 Senin",
+    "KRAI-2026/Arlen/Riset KRAI Part/otonombot_ws/Arsitektur.canvas",
+    "KRAI-2026/Arlen/Riset KRAI Part/otonombot_ws/Arsitektur Comp - Fix.canvas",
+    "KRAI-2026/Arlen/Riset KRAI Part/OtonomCam_ws/Node - Topic.canvas",
+    "KRAI-2026/Arlen/KRAI 2026/Arsitektur/Arsitektur Comp Pancar.canvas",
+    "01 - Projects/KRAI-2026/Arlen/KRAI 2026/Arsitektur/Arsitektur Comp Pancar.canvas",
+    "01 - Projects/KRAI-2026/Arlen/Riset KRAI Part/otonombot_ws/Arsitektur.canvas",
+    "01 - Projects/KRAI-2026/Arlen/Riset KRAI Part/otonombot_ws/Arsitektur Comp - Fix.canvas",
+    "01 - Projects/KRAI-2026/Arlen/Riset KRAI Part/OtonomCam_ws/Node - Topic.canvas"
+  ]
+}

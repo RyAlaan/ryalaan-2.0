@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.hasProperty("image")
+        - file.inFolder("03 - Resources/Books")
+    image: note.image
+    imageAspectRatio: 1.5
+  - type: cards
+    name: Movies
+    filters:
+      and:
+        - file.hasProperty("image")
+        - file.inFolder("03 - Resources/Books")
+    image: note.image
+    imageAspectRatio: 1.5
