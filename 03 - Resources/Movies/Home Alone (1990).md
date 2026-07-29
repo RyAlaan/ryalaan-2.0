@@ -30,5 +30,6 @@ premiere: 16-11-1990
 watched: false
 lastWatched: ""
 personalRating: 9
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

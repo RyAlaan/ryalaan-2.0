@@ -31,5 +31,6 @@ premiere: 01-10-2010
 watched: false
 lastWatched: ""
 personalRating: 8
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

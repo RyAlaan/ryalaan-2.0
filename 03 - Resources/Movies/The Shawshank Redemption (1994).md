@@ -30,5 +30,6 @@ premiere: 14-10-1994
 watched: false
 lastWatched: ""
 personalRating: 9
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

@@ -19,5 +19,6 @@ released: true
 read: true
 lastRead: ""
 personalRating: 3.5
-tags: mediaDB/book
+tags:
+  - resources/books
 ---

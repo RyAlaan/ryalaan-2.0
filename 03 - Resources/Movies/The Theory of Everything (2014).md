@@ -32,5 +32,6 @@ premiere: 26-11-2014
 watched: false
 lastWatched: ""
 personalRating: 7
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

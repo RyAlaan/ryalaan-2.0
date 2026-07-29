@@ -30,5 +30,6 @@ premiere: 10-04-1957
 watched: false
 lastWatched: ""
 personalRating: 7
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

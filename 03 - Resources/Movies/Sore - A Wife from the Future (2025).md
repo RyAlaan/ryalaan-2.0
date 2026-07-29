@@ -31,5 +31,6 @@ premiere: 10-12-2025
 watched: false
 lastWatched: ""
 personalRating: 10
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

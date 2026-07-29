@@ -32,6 +32,7 @@ premiere: 14-01-2005
 watched: false
 lastWatched: ""
 personalRating: 8
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 list: biography
 ---

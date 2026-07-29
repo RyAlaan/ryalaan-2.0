@@ -30,5 +30,6 @@ premiere: 12-01-2001
 watched: false
 lastWatched: ""
 personalRating: 8
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

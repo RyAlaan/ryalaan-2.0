@@ -32,5 +32,7 @@ premiere: 25-05-2001
 watched: false
 lastWatched: ""
 personalRating: 7
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
+  - "#psychology"
 ---

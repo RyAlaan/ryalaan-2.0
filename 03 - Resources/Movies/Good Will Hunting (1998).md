@@ -31,5 +31,6 @@ premiere: 09-01-1998
 watched: false
 lastWatched: ""
 personalRating: 10
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

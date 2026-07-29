@@ -32,5 +32,6 @@ premiere: 25-06-2004
 watched: false
 lastWatched: ""
 personalRating: 6
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

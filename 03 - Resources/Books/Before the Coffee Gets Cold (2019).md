@@ -19,5 +19,6 @@ released: true
 read: false
 lastRead: 2026-02-11T07:02:00
 personalRating: 0
-tags: mediaDB/book
+tags:
+  - resources/books
 ---

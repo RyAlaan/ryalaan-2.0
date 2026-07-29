@@ -32,5 +32,6 @@ premiere: 19-02-1999
 watched: false
 lastWatched: ""
 personalRating: 8
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---

@@ -19,7 +19,8 @@ released: true
 read: true
 lastRead: 2026-04-06T06:26:00
 personalRating: 3.5
-tags: mediaDB/book
+tags:
+  - resources/books
 ---
 Jir, gua bingung mau mulai dari mana, soalnya ini buku pertama yang gua reveiw (bukan gua baca ya). Jadi gua dapet buku ini tuh dari Urr. Gua tukeran ama dia, dia minjem [[Laut Bercerita (2017)]] nah gua minjem ini.
 

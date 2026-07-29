@@ -32,5 +32,6 @@ premiere: 27-01-1995
 watched: false
 lastWatched: ""
 personalRating: 8
-tags: mediaDB/tv/movie
+tags:
+  - resources/movies
 ---
