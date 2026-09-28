@@ -1,6 +1,5 @@
 ---
 resource: project
-status: todo
 created:
   "{ date }":
 project:

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "274cdea4585cc146",
+        "id": "20d2c851a2bdbbff",
         "type": "tabs",
         "children": [
           {
-            "id": "c636f1ac44d151d6",
+            "id": "dd7e172ac48a4d1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d147eca9cb279bb4",
@@ -167,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -176,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,18 +190,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "c636f1ac44d151d6",
+  "active": "dd7e172ac48a4d1c",
   "lastOpenFiles": [
-    "01 - Projects/ROS-2/02 -  Nodes.md",
+    "01 - Projects/ROS-2/03 - Client-Service.md",
+    "01 - Projects/ROS-2/02 -  Topics.md",
+    "Invalid date.md",
+    "01 - Projects/ROS-2/01 - Environment & Workspace.md",
+    "99 - Assets/Templates/Project Template.md",
     "03 - Resources/Article/ROS 2 Basic Concept.md",
+    "01 - Projects/ROS-2/Untitled.md",
     "03 - Resources/Article/ROS 2 Environment.md",
     "03 - Resources/Movies/Whiplash (2014).md",
     "03 - Resources/Movies/The Theory of Everything (2014).md",
@@ -217,13 +221,8 @@
     "03 - Resources/Movies/Home Alone (1990).md",
     "03 - Resources/Movies/Finding Forrester (2000).md",
     "03 - Resources/Movies/Coach Carter (2005).md",
-    "03 - Resources/Movies/500 Days of Summer (2009).md",
-    "03 - Resources/Movies/Before Sunrise (1995).md",
-    "03 - Resources/Movies/12 Angry Men (1957).md",
     "03 - Resources/Movies/00 - movies.base",
     "03 - Resources/Books/00 - books.base",
-    "grap.md",
-    "03 - Resources/Books/Animal Farm (1945).md",
     "01 - Projects/ROS-2/Unconfirmed 425886.crdownload",
     "99 - Assets/Images/Nodes-TopicandService.gif",
     "99 - Assets/Images/Unconfirmed 382184.crdownload",
